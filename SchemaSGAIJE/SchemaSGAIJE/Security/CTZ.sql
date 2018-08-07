@@ -1,0 +1,3 @@
+﻿CREATE SCHEMA [CTZ]
+    AUTHORIZATION [dbo];
+
